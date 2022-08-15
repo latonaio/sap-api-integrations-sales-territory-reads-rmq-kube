@@ -1,0 +1,21 @@
+{
+	"connection_key": "response",
+	"result": true,
+	"redis_key": "abcdefg",
+	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
+	"SalesTerritoryCollection": {
+		"ObjectID":"",              
+		"Id":"1",                    
+		"Name":"",                  
+		"ParentID":"",              
+		"EmployeeResponsible":"",   
+		"HierarchyLevelCode":"",    
+		"HierarchyLevelCodeText":"",
+		"EntityLastChangedOn":"",   
+		"ETag":""                  
+	},
+	"api_schema": "SalesTerritory",
+	"accepter": ["SalesTerritoryCollection"],
+	"sales_territory_code": "1",
+	"deleted": false
+}

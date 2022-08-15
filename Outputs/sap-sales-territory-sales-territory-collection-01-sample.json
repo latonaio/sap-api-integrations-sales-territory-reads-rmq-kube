@@ -1,0 +1,19 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-sales-territory-reads/SAP_API_Caller/caller.go#L53",
+	"function": "sap-api-integrations-sales-territory-reads/SAP_API_Caller.(*SAPAPICaller).SalesTerritoryCollection",
+	"level": "INFO",
+	"message": [
+		{
+			"ObjectID": "00163E03A0701ED28B9DEFE242DDF0A6",
+			"Id": "1",
+			"Name": "Territories",
+			"ParentID": "",
+			"EmployeeResponsible": "E1008",
+			"HierarchyLevelCode": "Z01",
+			"HierarchyLevelCodeText": "Root",
+			"EntityLastChangedOn": "2012-11-13T02:36:47+09:00",
+			"ETag": "2012-11-13T02:36:47+09:00"
+		}
+	],
+	"time": "2022-08-10T15:05:21+09:00"
+}
